@@ -47,6 +47,9 @@
         <item name="placesColorOnSurfaceVariant">@color/synthwave_on_surface_variant</item>
         <item name="placesColorOutlineDecorative">@color/synthwave_outline</item>
 
+        <item name="placesColorButtonBorder">#d62929</item>
+        <item name="placesBorderWidthButton">2dp</item>
+
         <!-- Status Colors -->
         <item name="placesColorPositive">@color/synthwave_positive</item>
         <item name="placesColorNegative">@color/synthwave_negative</item>
